@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/comp/Compiler.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/Statement.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/FormalParamDec.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/TypeUndefined.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/UnaryExpr.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/Variable.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/AssignExprLocalDec.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/LocalDec.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/Type.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/ExprList.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/VariableList.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/Program.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/ReadStmt.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/InstanceVariable.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/LocalVariableList.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/ParamList.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/MessageSendStatement.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/WhileStmt.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/Expr.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/SignalExpr.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/MethodDec.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/VariableExpr.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/MessageSend.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/StatementList.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/MessageSendToSelf.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/IfStmt.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/ObjectCreation.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/NullStmt.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/LiteralBoolean.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/InstanceVariableList.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/NullExpr.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/MetaobjectCall.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/lexer/Symbol.java</file>
+            <file>file:/C:/Users/home/Dropbox/krakatoa/src/ast/TypeString.java</file>
+        </group>
+    </open-files>
+</project-private>
